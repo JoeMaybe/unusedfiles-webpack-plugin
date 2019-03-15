@@ -1,0 +1,11 @@
+{
+  "name": "walk_compilation",
+  "version": "1.0.0",
+  "description": "walk through webpack compilation",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "joemaybe",
+  "license": "MIT"
+}
