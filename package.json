@@ -1,7 +1,7 @@
 {
-  "name": "walk_compilation",
+  "name": "unusedfiles-webpack-plugin",
   "version": "1.0.0",
-  "description": "walk through webpack compilation",
+  "description": "find out unused files while webpack plugin executes",
   "main": "index.js",
   "scripts": {
     "test": "test"
