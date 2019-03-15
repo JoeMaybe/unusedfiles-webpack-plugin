@@ -39,7 +39,7 @@ UnusedFilesPlugin.prototype.apply = function(compiler) {
       var allFiles = [];
       var dependency = {};
       
-      var root = path.join(__dirname, this.options.srcDir)
+      var root = path.join(__dirname,'../', this.options.srcDir)
 
       console.log('__dirname='+__dirname)
 
